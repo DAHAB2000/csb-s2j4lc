@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://dahab2000.github.io/csb-s2j4lc/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://dahab2000.github.io/csb-s2j4lc/static/js/main.0863e2f9.chunk.js",
+    "main.js.map": "https://dahab2000.github.io/csb-s2j4lc/static/js/main.0863e2f9.chunk.js.map",
+    "runtime-main.js": "https://dahab2000.github.io/csb-s2j4lc/static/js/runtime-main.251709ad.js",
+    "runtime-main.js.map": "https://dahab2000.github.io/csb-s2j4lc/static/js/runtime-main.251709ad.js.map",
+    "static/js/2.33f0bf01.chunk.js": "https://dahab2000.github.io/csb-s2j4lc/static/js/2.33f0bf01.chunk.js",
+    "static/js/2.33f0bf01.chunk.js.map": "https://dahab2000.github.io/csb-s2j4lc/static/js/2.33f0bf01.chunk.js.map",
+    "index.html": "https://dahab2000.github.io/csb-s2j4lc/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://dahab2000.github.io/csb-s2j4lc/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.33f0bf01.chunk.js.LICENSE.txt": "https://dahab2000.github.io/csb-s2j4lc/static/js/2.33f0bf01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.251709ad.js",
+    "static/js/2.33f0bf01.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0863e2f9.chunk.js"
+  ]
+}
